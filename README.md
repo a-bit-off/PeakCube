@@ -10,3 +10,6 @@ Casual mobile game.
 
 ![alt text](photos/pcV.gif)
 
+<img src="https://github.com/a-bit-off/PeakCube/blob/main/photos/pcV.gif" width="200" />
+
+
