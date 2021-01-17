@@ -10,4 +10,5 @@ Casual mobile game.
 ![alt text](photos/pc2 "Описание будет тут")
 
 ![alt text](photos/pcG.gif "Описание будет тут")
+![alt text](photos/pcV.gif "Описание будет тут")
 
