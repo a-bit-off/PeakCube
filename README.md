@@ -8,5 +8,5 @@ Casual mobile game.
 
  Для того что бы скачать игру на телефон, необхожимо скачать файл .apk и установить игру.
 
-![alt text](photos/pcV.gif = 100, 100)
+![alt text](photos/pcV.gif)
 
