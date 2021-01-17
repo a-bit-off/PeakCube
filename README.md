@@ -8,4 +8,5 @@ Casual mobile game.
 
 ![alt text](photos/pc1 "Описание будет тут") 
 ![alt text](photos/pc2 "Описание будет тут")
+![alt text](video/pcV "Описание будет тут")
 
