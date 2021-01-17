@@ -7,7 +7,7 @@ Casual mobile game.
 Если вам понравилась игра, могу прикрепить файл разработчика.
 
 ![alt text](photos/pc1 "Описание будет тут") 
-![img src="photos/pc1" width = "200px", height = "450px" ]
 ![alt text](photos/pc2 "Описание будет тут")
-![alt text](video/pcV "Описание будет тут")
+
+![alt text](photos/pcG.gif "Описание будет тут")
 
